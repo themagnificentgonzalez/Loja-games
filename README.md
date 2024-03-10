@@ -1,0 +1,1 @@
+Atividade da UC *Framework com consumo de API*. Curso Desenvolvimento Full-Stack SENAI. O Framework utilizado foi o Angular 15. Algumas dificuldades surgiram em virtude das grandes mudanças do Angular v. 17, mas isso nos obrigou a explorar um pouco em busca de soluções.
